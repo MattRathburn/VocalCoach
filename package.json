@@ -1,0 +1,15 @@
+{
+  "name": "electronvocalfrqcyanlsis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Matt Rathburn",
+  "license": "TBD",
+  "devDependencies": {
+    "electron": "^7.1.10",
+    "p5": "^0.10.2"
+  }
+}
