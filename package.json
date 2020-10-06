@@ -9,7 +9,7 @@
   "author": "Matt Rathburn",
   "license": "TBD",
   "devDependencies": {
-    "electron": "^9.1.0",
+    "electron": "^9.3.0",
     "p5": "^0.10.2"
   }
 }
